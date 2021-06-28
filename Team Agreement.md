@@ -84,10 +84,6 @@ GitHub repository project tool.
 
 ## Git Process
 
-**What components of your project will live on GitHub?**
-
-Index.html, About-us.html, cart.html, prodcuts.html, statistics.html
-
 **How will you share the repository with your teammates?**
 
 By using GitHub organization tool.
