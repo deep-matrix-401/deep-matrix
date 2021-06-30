@@ -31,5 +31,5 @@ Suhib Emad
 
 
 # what the user want 
- - As a deaf user, I want a program which allow me to communicate with people, so that they understand me easily.
- - As a deaf user, I want the program to be fast and responding very easily, so I do not need to wait.
+ - As a deaf user, I want a program which allow me to communicate with people, so that they understand me easily..
+ - As a deaf user, I want the program to be fast and responding very easily, so I do not need to wait..
