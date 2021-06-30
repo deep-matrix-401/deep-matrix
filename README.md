@@ -30,6 +30,9 @@ Suhib Emad
   - Convert sign language to an Englsih language.
   - System should work for multiple differnt movements.
 
-As a deaf user, I want the program to have the abilty to see my hand easily in different environments, so it can work in any environment.
+# what the user want 
 
-As a deaf user, I want the program to work live (real time processing), so words show up in front of people.
+ - As a deaf user, I want a program which allow me to communicate with people, so that they understand me easily.
+ - As a deaf user, I want the program to be fast and responding very easily, so I do not need to wait.
+ - As a deaf user, I want the program to have the abilty to see my hand easily in different environments, so it can work in any environment.
+ - As a deaf user, I want the program to work live (real time processing), so words show up in front of people.
