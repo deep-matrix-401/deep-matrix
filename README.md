@@ -28,3 +28,8 @@ Suhib Emad
   - A real time detection system that can interpret sign language.
   - Convert sign language to an Englsih language.
   - System should work for multiple differnt movements.
+
+
+# what the user want 
+ - As a deaf user, I want a program which allow me to communicate with people, so that they understand me easily..
+ - As a deaf user, I want the program to be fast and responding very easily, so I do not need to wait..
