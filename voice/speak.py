@@ -10,6 +10,7 @@ root.iconbitmap('c:/Hamza')
 
 def talk():
     engine= pyttsx3.init()
+    engine.setProperty('rate', 100)   
     engine.say(my_entry.get())
     engine.runAndWait()
     my_entry.delete(0,END)
