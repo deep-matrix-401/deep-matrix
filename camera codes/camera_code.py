@@ -11,7 +11,7 @@ while True:
     try:
         check, frame = webcam.read()
         print(check) #prints true as long as the webcam is running
-        print(frame) #prints matrix values of each framecd 
+
         cv2.imshow("Capturing", frame)
         key = cv2.waitKey(1)
         if key == ord('s'): 
