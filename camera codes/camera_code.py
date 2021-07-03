@@ -10,7 +10,6 @@ webcam = cv2.VideoCapture(0)
 while True:
     try:
         check, frame = webcam.read()
-        print(check) #prints true as long as the webcam is running
 
         cv2.imshow("Capturing", frame)
         key = cv2.waitKey(1)
