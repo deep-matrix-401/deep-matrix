@@ -1,0 +1,30 @@
+
+python -m venv deepmatrix
+.\deepmatrix\Scripts\activate
+python -m pip install --upgrade pip
+pip install ipykernel
+python -m ipykernel install --user --name=deepmatrix
+pip install jupyterlab
+
+
+
+#### install lib
+pip install ipykernel
+pip install opencv-python
+pip install --upgrade pyqt5 lxml
+pip install wget
+pip install tensorflow
+pip install gin-config==0.1.1
+pip install protobuf matplotlib
+pip install Pillow
+pip install protobuf
+pip install PyYAML
+pip install tensorflow-addons
+
+
+### downloads
+
+https://drive.google.com/file/d/1eLYKHqn3ObwueLRJU9wpkYrVeDCp6a0a/view?usp=sharing
+
+https://drive.google.com/drive/folders/1-1OrQ7v0Jum6vkNSLz5ZPJZFvl5smXXT?usp=sharing
+
